@@ -14,7 +14,7 @@
 
 [DDR3 4Gb (pc-12800) 1600MHz Hynix original](http://www.skhynix.com/products/computing/view.jsp?info.ramKind=20&info.serialNo=HMT351U6CFR8C) x2
 
-DDR3 8Gb (pc-12800) 1600MHz Hynix original x2
+[DDR3 8Gb (pc-12800) 1600MHz Hynix original](https://www.skhynix.com/products.do%3Flang%3Deng%26ct1%3D36%26ct2%3D38%26rc%3Dcom) x2
 
 [Arctic MX-4](http://www.arctic.ac/worldwide_en/products/cooling/thermal-compound/mx-4.html)
 

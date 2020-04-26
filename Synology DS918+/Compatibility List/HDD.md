@@ -1,4 +1,4 @@
-HDD/SSD
+# **HDD/SSD**
 
 We have tested and verified the compatibility of third-party products and peripherals on the Synology Products Compatibility List. Please note that the tests conducted in Synology labs may not have covered every aspect and that changes to firmware or hardware may affect device compatibility and stability. Synology does not guarantee the compatibility with third-party products and peripherals on the List and reserves the right to update the List at any time without prior notice (Learn more).
 
@@ -11,7 +11,7 @@ It is highly recommended to use enterprise-level drives on your enterprise-level
 Please choose endurable SSDs designed for mission-critical workloads.
 Since the longevity of an SSD is limited to a finite number of writes, please make sure you use higher endurance SSDs in I/O-intensive environments to prevent potential data loss.
 
- Incompatible Models
+Incompatible Models
 Class	Brand	Model Number	Series	Firmware	Capacity	Type	Feature	Note
 						3.5" SATA HDD		
 Enterprise	Seagate	ST16000NM001G	Exos X16	SN02	16TB	3.5" SATA HDD		
